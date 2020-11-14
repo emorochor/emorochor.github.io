@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## edificios de guayaquil
 
 <div>Teachable Machine Image Model</div>
 <button type="button" onclick="init()">Start</button>
@@ -11,7 +11,7 @@
     // https://github.com/googlecreativelab/teachablemachine-community/tree/master/libraries/image
 
     // the link to your model provided by Teachable Machine export panel
-    const URL = "https://teachablemachine.withgoogle.com/models/WEjk67-oP/";
+    const URL = "https://teachablemachine.withgoogle.com/models/kW-i7E9HD/";
 
     let model, webcam, labelContainer, maxPredictions;
 
