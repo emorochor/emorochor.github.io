@@ -59,3 +59,9 @@
         }
     }
 </script>
+<script src="https://www.gstatic.com/dialogflow-console/fast/messenger/bootstrap.js?v=1"></script>
+<df-messenger
+  chat-title="COMPUTACIÓN_PARALELA"
+  agent-id="026a2b00-5648-4966-b5e9-1389b52ef777"
+  language-code="ru"
+></df-messenger>
